@@ -42,7 +42,7 @@ An example of semi-structured data is
 5. Value
 6. Variability
 
-   
+   ![6 V's of Big Data](https://intellipaat.com/blog/wp-content/uploads/2020/02/Graphics-03.jpg)
 
 **Volume**:
 The term "volume" refers to a large amount of data. The magnitude of data plays a critical role in determining its worth. When the
