@@ -91,6 +91,8 @@ So, we have a stage called Data Extraction, where we take this different data an
 How much we need to change the data depends on what kind of analysis we're doing and what our Big Data system can do. For example, if we're working with text data, like web server logs or documents, and our Big Data system can already work with those, we might not need to change much.
 
 
+
+
 **Phase 3: Data Validation and Cleansing**:
 Incorrect data can mess up the results of our analysis. Unlike regular business data, which is usually well-organized and checked before use, the data we put into Big Data analysis can be messy and not checked for accuracy. It's often complicated, which makes it hard to set up rules to check its accuracy.
 
