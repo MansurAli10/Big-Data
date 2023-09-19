@@ -42,6 +42,8 @@ An example of semi-structured data is
 5. Value
 6. Variability
 
+   
+
 **Volume**:
 The term "volume" refers to a large amount of data. The magnitude of data plays a critical role in determining its worth. When the
 amount of data is extremely vast, it is referred to as 'Big Data'.
@@ -131,4 +133,5 @@ One of the big challenges in Big Data is keeping all that data safe and secure. 
 ## References
 
 1) Thabet, Nasser & Soomro, Tariq. (2015). Big Data Challenges. Journal of Computer Engineering & Information Technology. 4. 10.4172/2324-9307.1000133.
-2) 
+2) Rahman, Hamidur & Begum, Shahina & Ahmed, Mobyen. (2016). Ins and Outs of Big Data: A Review. 10.1007/978-3-319-51234-1_7.
+3) _Big Data Analytics Lifecycle | Big Data Adoption and Planning Considerations | InformIT. (n.d.)_. https://www.informit.com/articles/article.aspx?p=2473128&seqNum=11
