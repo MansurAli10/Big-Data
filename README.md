@@ -58,4 +58,5 @@ Semi-structured data is kind of like data that's partly organized but doesn't fo
 Unstructured data is the opposite; it's messy data that doesn't fit nicely into the rows and columns of a typical database. It can be things like text, images, or videos that don't have a standard structure.
 
 **Velocity**:
-
+"Velocity" in Big Data means how quickly data is being collected. Data is pouring in rapidly from things like machines, networks, social media, and phones. It keeps coming in quickly and steadily. This affects how fast we can create and use data to meet our needs. To handle this speed, we might use data sampling, which is like taking a smaller portion of data to work with.
+For example, Google gets over 3.5 billion search queries every day, and Facebook's user base is growing by about 22% each year.
