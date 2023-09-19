@@ -67,3 +67,37 @@ When we talk about the veracity of big data, we're talking about how reliable an
 
 **Value**:
 Value in the context of data means understanding why you're collecting or storing it. Is there a good reason or a specific goal it serves? If not, it might not be worth keeping. Also, when analyzing data, it's important to think about ethical concerns.
+
+## Phases of Big Data analysis
+
+**Phase 1: Data Acquisition and Filtering**:
+In the Data Acquisition and Filtering stage, we gather data from the sources we identified earlier. Then, we use automated filters to get rid of data that's either broken or not useful for our analysis.
+
+The data can come in different forms, like a bunch of files you buy from a data provider or data you get through a service like Twitter. Often, especially when dealing with messy data from outside sources, a lot of the data we collect might not be helpful, so we throw it away during the filtering process.
+
+**Phase 2: Data Extraction**:
+Sometimes, the data we want to use for analysis isn't in a format that works with our Big Data system. This issue is more common with data from outside sources. 
+
+So, we have a stage called Data Extraction, where we take this different data and change it into a format that our Big Data system can understand and use for analysis.
+
+How much we need to change the data depends on what kind of analysis we're doing and what our Big Data system can do. For example, if we're working with text data, like web server logs or documents, and our Big Data system can already work with those, we might not need to change much.
+
+
+**Phase 3: Data Validation and Cleansing**:
+Incorrect data can mess up the results of our analysis. Unlike regular business data, which is usually well-organized and checked before use, the data we put into Big Data analysis can be messy and not checked for accuracy. It's often complicated, which makes it hard to set up rules to check its accuracy.
+
+In the Data Validation and Cleansing stage, we create rules to check the data and remove any data we know is incorrect. For analysis done in batches, we can do this offline. But for real-time analysis, we need a more complex system that checks and cleans the data as it comes in from the source.
+
+**Phase 4: Data Aggregation and Representation**:
+Sometimes, data is in different places, and we need to put it all together by matching things like dates or IDs. Other times, the same data appears in different datasets, like birthdates.
+
+In the Data Aggregation and Representation stage, we combine these different datasets to create a single, organized view of the data.
+
+**Phase 5: Data Analysis**:
+In the Data Analysis stage, we actually do the analysis work, which often includes different types of analysis methods. This stage might involve going back and forth several times, especially if we're trying to explore and discover patterns or connections in the data. Exploratory analysis, which we'll talk about later, is one way to do this, along with confirmatory analysis.
+
+**Phase 5: Utilization of Analysis Results**:
+After we share the analysis results with business users to help them make decisions, like through dashboards, there might be more ways to use these results. The Utilization of Analysis Results stage is about figuring out how and where we can use the data we've analyzed.
+
+Depending on the problems we were trying to solve with the analysis, the results might help us create new "models" that give us fresh insights and a better understanding of patterns and connections in the data we looked at.
+
