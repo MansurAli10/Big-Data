@@ -16,10 +16,16 @@ Certainly, here are simpler explanations of the examples of Big Data:
 Generally Big Data is Classified into three types
 1) Structured Data
 2) Unstructured Data
-3) Semi-structured
+3) Semi-structured Data
 
 **Structured Data**:
 Structured data is information that comes in a consistent, organized format, making it easy to store, find, and work with. 
 One common example of structured data is the kind you find in a relational database management system.
-For instance, think of a table in a database that holds information about employees. This table is a straightforward example of structured data..
+For instance, think of a table in a database that holds information about employees. This table is a straightforward example of structured data.
 
+**Unstructured Data**:
+Unstructured data is information that doesn't follow a specific pattern or structure. A common example of unstructured data is when you have a mix of different types of data, like text files, images, and videos all jumbled together.
+For instance, think about what you get when you do a 'Google Search.' The results you get from a Google Search are a prime example of unstructured data.
+
+**Semi-structured Data**:
+Semi-structured data is a type of information that combines both structured and unstructured elements. An example of semi-structured data is data stored in an XML file.
