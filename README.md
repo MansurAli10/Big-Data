@@ -40,6 +40,7 @@ An example of semi-structured data is
 3. Velocity
 4. Veracity
 5. Value
+6. Variability
 
 **Volume**:
 The term "volume" refers to a large amount of data. The magnitude of data plays a critical role in determining its worth. When the
@@ -67,6 +68,9 @@ When we talk about the veracity of big data, we're talking about how reliable an
 
 **Value**:
 Value in the context of data means understanding why you're collecting or storing it. Is there a good reason or a specific goal it serves? If not, it might not be worth keeping. Also, when analyzing data, it's important to think about ethical concerns.
+
+**Variability**:
+Variability and variety are not the same. Imagine going to a coffee shop that offers six coffee flavors. If you order the same flavor every day, but it tastes different each time, that's variability. The same idea applies to data. If the meaning of the data keeps changing, it can make it really hard to make the data consistent and uniform.
 
 ## Phases of Big Data analysis
 
