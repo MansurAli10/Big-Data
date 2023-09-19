@@ -44,7 +44,7 @@ An example of semi-structured data is
 
    ![6 V's of Big Data](https://intellipaat.com/blog/wp-content/uploads/2020/02/Graphics-03.jpg)
 
-                              6V's of Big data [4]
+                             
 
 **Volume**:
 The term "volume" refers to a large amount of data. The magnitude of data plays a critical role in determining its worth. When the
