@@ -46,6 +46,15 @@ The term "volume" refers to a large amount of data. The magnitude of data plays 
 amount of data is extremely vast, it is referred to as 'Big Data'.
 So, whether data is considered Big Data or not depends on how much of it there is. When handling Big Data, it's important to pay attention to its sheer size, or volume.
 
-***Example:*** In 2016, worldwide mobile traffic was predicted to be 6.2 Exabytes (6.2 billion GB) per month. Furthermore, by 2020, we will have about 40000 ExaBytes of data..
+***Example:*** In 2016, worldwide mobile traffic was predicted to be 6.2 Exabytes (6.2 billion GB) per month. Furthermore, by 2020, we will have about 40000 ExaBytes of data.
+
+**Variety**:
+Variety is about the different kinds of data. When we talk about Big Data, it means we're gathering all sorts of data, like organized data, messy data, and partly organized data. This happens because we collect data from lots of different places, and these sources can be quite different from each other. So, variety in Big Data means dealing with a mix of data types from diverse sources.
+
+Structured data is information that's been organized neatly, often with specific rules about how long it can be and what it should look like.
+
+Semi-structured data is kind of like data that's partly organized but doesn't follow the usual rules. Think of it as data represented in a more flexible way, like log files.
+
+Unstructured data is the opposite; it's messy data that doesn't fit nicely into the rows and columns of a typical database. It can be things like text, images, or videos that don't have a standard structure.
 
 
