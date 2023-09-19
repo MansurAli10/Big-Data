@@ -44,6 +44,8 @@ An example of semi-structured data is
 
    ![6 V's of Big Data](https://intellipaat.com/blog/wp-content/uploads/2020/02/Graphics-03.jpg)
 
+                              6V's of Big data [4]
+
 **Volume**:
 The term "volume" refers to a large amount of data. The magnitude of data plays a critical role in determining its worth. When the
 amount of data is extremely vast, it is referred to as 'Big Data'.
@@ -135,3 +137,4 @@ One of the big challenges in Big Data is keeping all that data safe and secure. 
 1) Thabet, Nasser & Soomro, Tariq. (2015). Big Data Challenges. Journal of Computer Engineering & Information Technology. 4. 10.4172/2324-9307.1000133.
 2) Rahman, Hamidur & Begum, Shahina & Ahmed, Mobyen. (2016). Ins and Outs of Big Data: A Review. 10.1007/978-3-319-51234-1_7.
 3) _Big Data Analytics Lifecycle | Big Data Adoption and Planning Considerations | InformIT. (n.d.)_. https://www.informit.com/articles/article.aspx?p=2473128&seqNum=11
+4) Khan, A., & Khan, A. (2023). Data Science vs Data Analytics vs Big Data. Intellipaat Blog. https://intellipaat.com/blog/data-science-vs-data-analytics-vs-big-data/
