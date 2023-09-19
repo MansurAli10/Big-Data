@@ -123,3 +123,8 @@ To use modern technologies and Big Data tools, companies require skilled experts
 
 **Securing data**:
 One of the big challenges in Big Data is keeping all that data safe and secure. Sometimes, companies are so focused on figuring out, storing, and studying their data that they put off thinking about data security until later. But that's not a wise move because if data isn't protected, it can attract bad actors who can do harm. It's important to know that companies can face massive financial losses, up to $3.7 million, if their data is stolen or there's a security breach.
+
+## References
+
+1) Thabet, Nasser & Soomro, Tariq. (2015). Big Data Challenges. Journal of Computer Engineering & Information Technology. 4. 10.4172/2324-9307.1000133.
+2) 
