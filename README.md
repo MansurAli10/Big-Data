@@ -28,4 +28,7 @@ Unstructured data is information that doesn't follow a specific pattern or struc
 For instance, think about what you get when you do a 'Google Search.' The results you get from a Google Search are a prime example of unstructured data.
 
 **Semi-structured Data**:
-Semi-structured data is a type of information that combines both structured and unstructured elements. An example of semi-structured data is data stored in an XML file. Comma Separated Values(CSV) File
+Semi-structured data is a type of information that combines both structured and unstructured elements.
+An example of semi-structured data is 
+1) Data stored in an XML file.
+2) Comma Separated Values(CSV) File
