@@ -92,7 +92,7 @@ How much we need to change the data depends on what kind of analysis we're doing
 
 ![Data Extraction](https://blog.coupler.io/wp-content/uploads/2023/02/ETL-1024x483.png)
 
-                     Data Extraction
+                   
 
 
 **Phase 3: Data Validation and Cleansing**:
