@@ -57,4 +57,5 @@ Semi-structured data is kind of like data that's partly organized but doesn't fo
 
 Unstructured data is the opposite; it's messy data that doesn't fit nicely into the rows and columns of a typical database. It can be things like text, images, or videos that don't have a standard structure.
 
+**Velocity**:
 
