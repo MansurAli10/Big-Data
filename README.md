@@ -61,3 +61,9 @@ Unstructured data is the opposite; it's messy data that doesn't fit nicely into 
 "Velocity" in Big Data means how quickly data is being collected. Data is pouring in rapidly from things like machines, networks, social media, and phones. It keeps coming in quickly and steadily. This affects how fast we can create and use data to meet our needs. To handle this speed, we might use data sampling, which is like taking a smaller portion of data to work with.
 
 For example, Google gets over 3.5 billion search queries every day, and Facebook's user base is growing by about 22% each year.
+
+**Veracity**:
+When we talk about the veracity of big data, we're talking about how reliable and trustworthy the data is. Is it correct and of good quality? When dealing with big data that comes from different places, it's crucial to know where it came from, have details about it, and understand the circumstances when it was gathered. The better the data's veracity, the more valuable it is for making meaningful conclusions and helping an organization.
+
+**Value**:
+Value in the context of data means understanding why you're collecting or storing it. Is there a good reason or a specific goal it serves? If not, it might not be worth keeping. Also, when analyzing data, it's important to think about ethical concerns.
