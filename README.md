@@ -45,6 +45,6 @@ An example of semi-structured data is
 The term "volume" refers to a large amount of data. The magnitude of data plays a critical role in determining its worth. When the
 amount of data is extremely vast, it is referred to as 'Big Data'.
 So, whether data is considered Big Data or not depends on how much of it there is. When handling Big Data, it's important to pay attention to its sheer size, or volume.
-***Example:*** In 2016, worldwide mobile traffic was predicted to be 6.2 Exabytes (6.2 billion GB) per month. Furthermore, by 2020, we will have about 40000 ExaBytes of data
+***Example:*** In 2016, worldwide mobile traffic was predicted to be 6.2 Exabytes (6.2 billion GB) per month. Furthermore, by 2020, we will have about 40000 ExaBytes of data.
 
 
