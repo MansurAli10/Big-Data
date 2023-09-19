@@ -90,7 +90,9 @@ So, we have a stage called Data Extraction, where we take this different data an
 
 How much we need to change the data depends on what kind of analysis we're doing and what our Big Data system can do. For example, if we're working with text data, like web server logs or documents, and our Big Data system can already work with those, we might not need to change much.
 
+![Data Extraction](https://blog.coupler.io/wp-content/uploads/2023/02/ETL-1024x483.png)
 
+                     Data Extraction
 
 
 **Phase 3: Data Validation and Cleansing**:
