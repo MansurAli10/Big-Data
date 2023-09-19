@@ -101,3 +101,25 @@ After we share the analysis results with business users to help them make decisi
 
 Depending on the problems we were trying to solve with the analysis, the results might help us create new "models" that give us fresh insights and a better understanding of patterns and connections in the data we looked at.
 
+## Challenges in Big Data analysis 
+
+**Data growth issues**:
+One of the biggest problems with Big Data is storing these massive amounts of data correctly. The data stored in company data centers and databases is growing very fast. As time goes on, these datasets are getting bigger and harder to manage. A lot of this data is messy and doesn't fit neatly into databases because it comes from things like documents, videos, audio, and text files.
+
+**Lack of proper understanding of Big Data**:
+Companies often struggle with their Big Data projects because not everyone in the organization understands the ins and outs of data, like what it is, how to store and process it, why it's important, and where it comes from. 
+
+For instance, if employees don't realize how crucial it is to store data properly, they might forget to back up important information or use databases incorrectly. This can lead to problems when we need to retrieve that important data later.
+
+To tackle this issue, companies should organize workshops and training programs about Big Data for all their employees who work with data regularly. It's important for everyone in the organization to have at least a basic understanding of how data works.
+
+
+**Confusion while Big Data tool selection**:
+Companies can face challenges when trying to choose the right tools for Big Data analysis and storage. They might wonder whether HBase or Cassandra is better for storing data, or if Hadoop MapReduce is sufficient or if Spark would be a better choice for data analysis and storage. These questions can cause confusion, and sometimes companies make the wrong choices. This can lead to wasted money, time, effort, and work hours.
+
+
+**Lack of data professionals**:
+To use modern technologies and Big Data tools, companies require skilled experts like data scientists, data analysts, and data engineers. These professionals are experienced in using these tools to make sense of large datasets. However, many companies struggle to find enough of these experts because the tools have advanced quickly, but the professionals haven't kept up with the changes. To address this gap, steps need to be taken to train more professionals in Big Data skills.
+
+**Securing data**:
+One of the big challenges in Big Data is keeping all that data safe and secure. Sometimes, companies are so focused on figuring out, storing, and studying their data that they put off thinking about data security until later. But that's not a wise move because if data isn't protected, it can attract bad actors who can do harm. It's important to know that companies can face massive financial losses, up to $3.7 million, if their data is stolen or there's a security breach.
