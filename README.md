@@ -12,3 +12,14 @@ Certainly, here are simpler explanations of the examples of Big Data:
 3) Weather stations and satellites gather massive amounts of data that's used to predict the weather.
 4) Big telecom companies like T-Mobile and Verizon collect and analyze data from millions of users to create and offer better mobile plans based on user behavior.
 
+### Types of Big Data
+Generally Big Data is Classified into three types
+1) Structured Data
+2) Unstructured Data
+3) Semi-structured
+
+**Structured Data**:
+Structured data is information that comes in a consistent, organized format, making it easy to store, find, and work with. 
+One common example of structured data is the kind you find in a relational database management system.
+For instance, think of a table in a database that holds information about employees. This table is a straightforward example of structured data.
+
